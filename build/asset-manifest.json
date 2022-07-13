@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ddb51fc.css",
+    "main.js": "/static/js/main.6919b074.js",
+    "static/media/emadsaeed-logo.svg": "/static/media/emadsaeed-logo.7f481dd48624da345faa05f72d359535.svg",
+    "index.html": "/index.html",
+    "main.4ddb51fc.css.map": "/static/css/main.4ddb51fc.css.map",
+    "main.6919b074.js.map": "/static/js/main.6919b074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ddb51fc.css",
+    "static/js/main.6919b074.js"
+  ]
+}
